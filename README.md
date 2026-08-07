@@ -12,9 +12,9 @@ frontakst : #AKS # Terraform # Vue # Node # RabbitMQ # Rust # Prometheus # Grafa
 
 
 ## Similar Skills Set
-GCP : GKE
-AWS : EKS
-Other : Kubernetes (k8s), k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
+- GCP : GKE
+- AWS : EKS
+- Other : Kubernetes (k8s), k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 ## Azure Kubernetes Service (AKS) cluster using Terraform
 
