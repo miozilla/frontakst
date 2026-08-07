@@ -9,8 +9,12 @@ frontakst : #AKS # Terraform # Vue # Node # RabbitMQ # Rust # Prometheus # Grafa
 - Configuring RabbitMQ for reliable messaging.
 - Setting up Prometheus/Grafana dashboards for system visibility.
 - Maintaining CI/CD pipelines to ensure smooth updates.
-- AKS similar skill sets/services/technologies : EKS, GKE, Kubernetes, k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
+
+## Similar Skills Set
+GCP : GKE
+AWS : EKS
+Other : Kubernetes (k8s), k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 ## Azure Kubernetes Service (AKS) cluster using Terraform
 
